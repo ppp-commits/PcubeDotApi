@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcubeDotApi", "PcubeDotApi.csproj", "{B233F135-2288-4D38-9F56-360B7CA5D0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B233F135-2288-4D38-9F56-360B7CA5D0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B233F135-2288-4D38-9F56-360B7CA5D0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B233F135-2288-4D38-9F56-360B7CA5D0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B233F135-2288-4D38-9F56-360B7CA5D0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F062C7-1DD9-4414-A1EC-852C0EA81FC3}
+	EndGlobalSection
+EndGlobal
